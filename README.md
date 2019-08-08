@@ -5,7 +5,7 @@ This extension allows you to use ObvPayment as payment gateway in your Magento 2
 ## Installing via [Composer](https://getcomposer.org/)
 
 ```bash
-composer require obvpayment/obvpayment-magento-2
+composer require obvpayment/obv-magento-2
 php bin/magento module:enable ObvPayment --clear-static-content
 php bin/magento setup:upgrade
 ```
