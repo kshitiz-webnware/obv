@@ -1,8 +1,8 @@
 {
-	"name": "obv/obv-magento-2",
+	"name": "ObvPayment/obv-magento-2",
 	"description": "Obv integration for Magento 2",
 	"type": "magento2-module",
-	"homepage": "https://github.com/obv/obv-magento-2/",
+	"homepage": "https://github.com/ObvPayment/obv-magento-2",
 	"keywords": ["obv", "magento", "magento 2", "plugin", "extension", "payment", "gateway"],
 	"version": "1.0",
 	"license": [
@@ -15,11 +15,11 @@
 	"autoload": {
 		"files": [ "registration.php" ],
 		"psr-4": {
-			"Obv\\pg\\": ""
+			"ObvPayment\\": ""
 		}
 	},
 	"support": {
-		"issues": "https://github.com/obv/obv-magento-2/issues",
+		"issues": "https://github.com/ObvPayment/obv-magento-2/issues",
 		"docs": "http://payment.obv.me/index.php/order/plugin?tab=php",
 		"email": "info@99sarms.com"
 	}
