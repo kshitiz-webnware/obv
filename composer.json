@@ -1,5 +1,5 @@
 {
-	"name": "ObvPayment/obv-magento-2",
+	"name": "obvpayment/obv-magento-2",
 	"description": "Obv integration for Magento 2",
 	"type": "magento2-module",
 	"homepage": "https://github.com/ObvPayment/obv-magento-2",
