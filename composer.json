@@ -9,8 +9,7 @@
 		"MIT"
 	],
 	"require": {
-		"php": "~5|~7",
-		"magento/framework": ">=100.0.4 <102"
+		"php": "~7",
 	},
 	"autoload": {
 		"files": [ "registration.php" ],
